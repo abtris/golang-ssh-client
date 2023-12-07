@@ -7,5 +7,5 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/pelletier/go-buffruneio v0.2.0 // indirect
 	github.com/prometheus/common v0.4.1
-	golang.org/x/crypto v0.0.0-20190605123033-f99c8df09eb5
+	golang.org/x/crypto v0.16.0
 )
